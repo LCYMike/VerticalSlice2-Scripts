@@ -1,0 +1,1 @@
+﻿public enum BossAnimationStates {walk, attack, die};
